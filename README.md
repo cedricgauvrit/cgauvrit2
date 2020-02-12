@@ -1,2 +1,2 @@
 # cgauvrit2
-https://mybinder.org/v2/gh/cedricgauvrit/cgauvrit2/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cedricgauvrit/cgauvrit2/master)
